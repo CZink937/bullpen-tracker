@@ -1,0 +1,5 @@
+{
+  "name": "Bullpen Tracker",
+  "description": "A professional tool for baseball pitchers to track bullpen sessions, pitch types, and strike zone accuracy.",
+  "requestFramePermissions": []
+}
